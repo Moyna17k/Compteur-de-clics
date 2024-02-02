@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  #compteur {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+
+  #clic {
+    cursor: pointer;
+    background-color: blue;
+    color: white;
+    border: none;
+    width: 200px;
+    height: 100px;
+    font-size: 2em;
+  }
+
+img {
+    margin-top: 20px;
+    display: none;
+}
+
+button {
+  margin-top: 50px;
+  cursor: pointer;
+  background-color: red;
+  color: white;
+  border: none;
+  width: 100px;
+  height: 50px;
+  font-size: 2em;
+}
